@@ -8,7 +8,7 @@ import "./CartasLaborales.css"; // Importar los estilos
 const CartasLaborales = () => {
   const courses = [
     {
-      title: "Consorcio ccc ituango 2018",
+      title: "Consorcio ccc ituango (2018)",
       image: ituango18Image,
     },
     {
@@ -20,7 +20,7 @@ const CartasLaborales = () => {
       image: coopevianImage,
     },
     {
-      title: "Consorcio ccc ituango 2022",
+      title: "Consorcio ccc ituango (2022)",
       image: ituango21Image,
     },
   ];
