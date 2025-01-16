@@ -4,7 +4,7 @@ import CertificadosLaborales from "./components/CertificadosLaborales";
 import CartasLaborales from "./components/CartasLaborales";
 import PDF from "./components/Pdf";
 //import "./styles/AppStyles.css"; // Importar los estilos externos*/}
-import "./app.css";
+import "./App.css";
 const App = () => {
   return (
     <Router>
